@@ -1,4 +1,4 @@
-ansible-tower-backup-script
+aap-backup-script
 =========
 
 This repository contains a script that will backup Ansible Tower either as a single node or clustered node.
